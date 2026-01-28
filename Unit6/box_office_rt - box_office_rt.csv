@@ -1,0 +1,718 @@
+Rank,AllPos,AllNeg,TopPos,TopNeg,PropAllPos,PropTopPos,Movie,Release,Rev_10M,year,AllFresh
+1,238,48,38,3,0.8322,0.9268,Avatar (Fox),18-Dec-09,76.05,2009,1
+2,145,21,36,8,0.8735,0.8182,Titanic (Paramount),19-Dec-97,65.87,1997,1
+3,268,22,38,7,0.9241,0.8444,Marvel's The Avengers (Disney),4-May-12,62.34,2012,1
+4,268,18,42,4,0.9371,0.913,The Dark Knight (Warner Bros.),18-Jul-08,53.49,2008,1
+5,107,81,19,31,0.5691,0.38,Star Wars: Episode I - The Phantom Menace (Fox),19-May-99,47.45,1999,0
+6,63,4,15,2,0.9403,0.8824,Star Wars (Fox),25-May-77,46.1,1977,1
+7,256,39,34,11,0.8678,0.7556,The Dark Knight Rises (Warner Bros.),20-Jul-12,44.81,2012,1
+8,185,23,36,5,0.8894,0.878,Shrek 2 (DreamWorks),19-May-04,44.12,2004,1
+9,92,2,17,1,0.9787,0.9444,E.T.: The Extra-Terrestrial (Universal),11-Jun-82,43.51,1982,1
+10,119,101,16,25,0.5409,0.3902,Pirates of the Caribbean: Dead Man's Chest (Disney),7-Jul-06,42.33,2006,0
+11,84,10,14,1,0.8936,0.9333,The Lion King (Disney),15-Jun-94,42.28,1994,1
+12,252,3,41,0,0.9882,1,Toy Story 3 (Disney),18-Jun-10,41.5,2010,1
+13,225,41,32,9,0.8459,0.7805,The Hunger Games (Lionsgate),23-Mar-12,40.8,2012,1
+14,193,23,31,6,0.8935,0.8378,Spider-Man (Sony / Columbia),3-May-02,40.37,2002,1
+15,49,190,7,34,0.205,0.1707,Transformers: Revenge of the Fallen (Paramount / DreamWorks),24-Jun-09,40.21,2009,0
+16,267,10,43,0,0.9639,1,Harry Potter and the Deathly Hallows: Part 2 (Warner Bros.),15-Jul-11,38.1,2011,1
+17,203,51,30,14,0.7992,0.6818,Star Wars: Episode III - Revenge of the Sith (Fox),19-May-05,38.03,2005,1
+18,223,2,45,0,0.9911,1,Finding Nemo (Disney),30-May-03,38.02,2003,1
+19,230,14,43,1,0.9426,0.9773,The Lord of the Rings: The Return of the King (New Line),17-Dec-03,37.7,2003,1
+20,226,16,43,2,0.9339,0.9556,Spider-Man 2 (Sony / Columbia),30-Jun-04,37.35,2004,1
+21,131,135,18,31,0.4925,0.3673,The Passion of the Christ (Newmarket),25-Feb-04,37.08,2004,0
+22,44,5,9,1,0.898,0.9,Jurassic Park (Universal),11-Jun-93,35.71,1993,1
+23,85,154,10,31,0.3556,0.2439,Transformers: Dark of the Moon (Paramount / DreamWorks),28-Jun-11,35.24,2011,0
+24,213,9,39,0,0.9595,1,The Lord of the Rings: The Two Towers (New Line),18-Dec-02,34.18,2002,1
+25,154,90,20,27,0.6311,0.4255,Spider-Man 3 (Sony / Columbia),4-May-07,33.65,2007,1
+26,134,127,23,16,0.5134,0.5897,Alice in Wonderland (2010) (Disney),5-Mar-10,33.42,2010,0
+27,40,16,9,4,0.7143,0.6923,Forrest Gump (Paramount),6-Jul-94,32.97,1994,1
+28,84,122,19,22,0.4078,0.4634,Shrek the Third (Paramount / DreamWorks),18-May-07,32.27,2007,0
+29,125,95,29,13,0.5682,0.6905,Transformers (Paramount / DreamWorks),3-Jul-07,31.92,2007,0
+30,223,15,40,4,0.937,0.9091,Iron Man (Paramount),2-May-08,31.84,2008,1
+31,147,38,30,11,0.7946,0.7317,Harry Potter and the Sorcerer's Stone (Warner Bros.),16-Nov-01,31.76,2001,1
+32,198,57,27,16,0.7765,0.6279,Indiana Jones and the Kingdom of the Crystal Skull (Paramount),22-May-08,31.71,2008,1
+33,192,17,36,3,0.9187,0.9231,The Lord of the Rings: The Fellowship of the Ring (New Line),19-Dec-01,31.48,2001,1
+34,200,68,26,14,0.7463,0.65,Iron Man 2 (Paramount),7-May-10,31.21,2010,1
+35,145,73,17,24,0.6651,0.4146,Star Wars: Episode II - Attack of the Clones (Fox),16-May-02,31.07,2002,1
+36,98,121,14,28,0.4475,0.3333,Pirates of the Caribbean: At World's End (Disney),25-May-07,30.94,2007,0
+37,52,14,15,4,0.7879,0.7895,Return of the Jedi (Fox),25-May-83,30.93,1983,1
+38,34,22,11,6,0.6071,0.6471,Independence Day (Fox),3-Jul-96,30.62,1996,1
+39,161,44,28,13,0.7854,0.6829,Pirates of the Caribbean: The Curse of the Black Pearl (Disney),9-Jul-03,30.54,2003,1
+40,215,42,39,5,0.8366,0.8864,Harry Potter and the Half-Blood Prince (Warner Bros.),15-Jul-09,30.2,2009,1
+41,114,119,24,14,0.4893,0.6316,The Twilight Saga: Eclipse (Summit),30-Jun-10,30.05,2010,0
+42,59,159,18,26,0.2706,0.4091,The Twilight Saga: New Moon (Summit),20-Nov-09,29.66,2009,0
+43,196,52,30,11,0.7903,0.7317,Harry Potter and the Deathly Hallows: Part 1 (Warner Bros.),19-Nov-10,29.6,2010,1
+44,114,20,25,7,0.8507,0.7813,The Sixth Sense (Disney),6-Aug-99,29.35,1999,1
+45,273,5,39,2,0.982,0.9512,Up (Disney),29-May-09,29.3,2009,1
+46,245,39,34,8,0.8627,0.8095,Inception (Warner Bros.),16-Jul-10,29.26,2010,1
+47,186,53,30,13,0.7782,0.6977,Harry Potter and the Order of the Phoenix (Warner Bros.),11-Jul-07,29.2,2007,1
+48,161,50,30,10,0.763,0.75,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (Disney)",9-Dec-05,29.17,2005,1
+49,69,2,16,2,0.9718,0.8889,The Empire Strikes Back (Fox),21-May-80,29.03,1980,1
+50,195,27,34,5,0.8784,0.8718,Harry Potter and the Goblet of Fire (Warner Bros.),18-Nov-05,29,2005,1
+51,22,19,5,2,0.5366,0.7143,Home Alone (Fox),16-Nov-90,28.58,1990,0
+52,173,63,31,13,0.7331,0.7045,The Matrix Reloaded (Warner Bros.),15-May-03,28.16,2003,1
+53,47,145,11,27,0.2448,0.2895,The Twilight Saga: Breaking Dawn - Part 1 (Lionsgate / Summit),18-Nov-11,28.13,2011,0
+54,60,97,15,24,0.3822,0.3846,Meet the Fockers (Universal),16-Dec-04,27.93,2004,0
+55,172,47,28,8,0.7854,0.7778,The Hangover (Warner Bros.),5-Jun-09,27.73,2009,1
+56,83,91,15,18,0.477,0.4545,The Twilight Saga: Breaking Dawn - Part 2 (Lionsgate / Summit),16-Nov-12,27.68,2012,0
+57,257,23,41,4,0.9179,0.9111,Skyfall (Sony / Columbia),8-Nov-12,27.19,2012,1
+58,156,20,33,5,0.8864,0.8684,Shrek (DreamWorks),16-May-01,26.77,2001,1
+59,202,74,31,10,0.7319,0.7561,The Amazing Spider-Man (Sony / Columbia),3-Jul-12,26.2,2012,1
+60,169,35,27,12,0.8284,0.6923,Harry Potter and the Chamber of Secrets (Warner Bros.),15-Nov-02,26.2,2002,1
+61,223,7,42,2,0.9696,0.9545,The Incredibles (Disney),5-Nov-04,26.14,2004,1
+62,69,60,16,15,0.5349,0.5161,How the Grinch Stole Christmas (Universal),17-Nov-00,26,2000,0
+63,52,0,5,0,1,1,Jaws (Universal),20-Jun-75,26,1975,1
+64,279,16,42,3,0.9458,0.9333,Star Trek (Paramount),8-May-09,25.77,2009,1
+65,147,64,27,18,0.6967,0.6,I Am Legend (Warner Bros.),14-Dec-07,25.64,2007,1
+66,126,64,16,10,0.6632,0.6154,The Blind Side (Warner Bros.),20-Nov-09,25.6,2009,1
+67,160,8,30,4,0.9524,0.8824,"Monsters, Inc. (Disney)",2-Nov-01,25.59,2001,1
+68,79,150,9,31,0.345,0.225,The Hangover Part II (Warner Bros.),26-May-11,25.45,2011,0
+69,40,16,4,3,0.7143,0.5714,Batman (1989) (Warner Bros.),23-Jun-89,25.21,1989,1
+70,153,36,29,4,0.8095,0.8788,Despicable Me (Universal),9-Jul-10,25.15,2010,1
+71,57,73,13,17,0.4385,0.4333,Night at the Museum (Fox),22-Dec-06,25.09,2006,0
+72,65,7,16,3,0.9028,0.8421,Men in Black (Sony / Columbia),2-Jul-97,25.07,1997,1
+73,209,22,39,4,0.9048,0.907,Harry Potter and the Prisoner of Azkaban (Warner Bros.),4-Jun-04,24.95,2004,1
+74,55,3,4,2,0.9483,0.6667,Raiders of the Lost Ark (Paramount),12-Jun-81,24.82,1981,1
+75,161,0,38,0,1,1,Toy Story 2 (Disney),19-Nov-99,24.59,1999,1
+76,143,51,30,11,0.7371,0.7317,Cars (Disney),9-Jun-06,24.41,2006,1
+77,89,94,21,17,0.4863,0.5526,Bruce Almighty (Universal),23-May-03,24.28,2003,0
+78,30,21,8,3,0.5882,0.7273,Twister (1996) (Warner Bros.),10-May-96,24.17,1996,0
+79,98,31,18,8,0.7597,0.6923,My Big Fat Greek Wedding (IFC Films),19-Apr-02,24.14,2002,1
+80,84,168,11,28,0.3333,0.2821,Pirates of the Caribbean: On Stranger Tides (Disney),20-May-11,24.11,2011,0
+81,49,3,3,2,0.9423,0.6,Ghostbusters (Columbia),8-Jun-84,23.86,1984,1
+82,108,80,14,19,0.5745,0.4242,Shrek Forever After (Paramount / DreamWorks),21-May-10,23.84,2010,0
+83,165,47,28,12,0.7783,0.7,Brave (Disney),22-Jun-12,23.72,2012,1
+84,34,7,4,2,0.8293,0.6667,Beverly Hills Cop (Paramount),5-Dec-84,23.48,1984,1
+85,130,99,23,21,0.5677,0.5227,X-Men: The Last Stand (Fox),26-May-06,23.44,2006,0
+86,186,65,29,14,0.741,0.6744,War of the Worlds (Paramount),29-Jun-05,23.43,2005,1
+87,138,16,31,4,0.8961,0.8857,Cast Away (Fox),22-Dec-00,23.36,2000,1
+88,33,30,7,7,0.5238,0.5,The Lost World: Jurassic Park (Universal),23-May-97,22.91,1997,0
+89,166,59,23,17,0.7378,0.575,Signs (Disney),2-Aug-02,22.8,2002,1
+90,87,128,14,27,0.4047,0.3415,Hancock (Sony / Columbia),2-Jul-08,22.79,2008,0
+91,221,15,40,1,0.9364,0.9756,The Bourne Ultimatum (Universal),3-Aug-07,22.75,2007,1
+92,66,61,18,16,0.5197,0.5294,Rush Hour 2 (New Line),3-Aug-01,22.62,2001,0
+93,226,9,41,1,0.9617,0.9762,WALL-E (Disney),27-Jun-08,22.38,2008,1
+94,43,82,9,18,0.344,0.3333,National Treasure: Book of Secrets (Disney),21-Dec-07,22,2007,0
+95,17,65,3,17,0.2073,0.15,Alvin and the Chipmunks: The Squeakquel (Fox),23-Dec-09,21.96,2009,0
+96,35,14,7,1,0.7143,0.875,Mrs. Doubtfire (Fox),24-Nov-93,21.92,1993,1
+97,85,7,23,1,0.9239,0.9583,Beauty and the Beast (1991) (Disney),13-Nov-91,21.9,1991,1
+98,135,60,23,14,0.6923,0.6216,Ted (2012) (Universal),29-Jun-12,21.87,2012,1
+99,216,42,35,9,0.8372,0.7955,King Kong (2005) (Universal),14-Dec-05,21.81,2005,1
+100,36,8,5,0,0.8182,1,Ghost (Paramount),13-Jul-90,21.76,1990,1
+101,169,3,28,2,0.9826,0.9333,How to Train Your Dragon (Paramount / DreamWorks),26-Mar-10,21.76,2010,1
+102,55,165,4,40,0.25,0.0909,The Da Vinci Code (Sony / Columbia),19-May-06,21.75,2006,0
+103,48,4,10,0,0.9231,1,Aladdin (Disney),11-Nov-92,21.74,1992,1
+104,28,80,6,20,0.2593,0.2308,Alvin and the Chipmunks (Fox),14-Dec-07,21.73,2007,0
+105,95,27,15,11,0.7787,0.5769,Madagascar 3: Europe's Most Wanted (Paramount / DreamWorks),8-Jun-12,21.64,2012,1
+106,88,7,18,2,0.9263,0.9,Saving Private Ryan (DreamWorks),24-Jul-98,21.63,1998,1
+107,147,20,28,8,0.8802,0.7778,Kung Fu Panda (Paramount / DreamWorks),6-Jun-08,21.54,2008,1
+108,81,60,19,12,0.5745,0.6129,Mission: Impossible II (Paramount),24-May-00,21.54,2000,0
+109,195,27,34,7,0.8784,0.8293,X2: X-Men United (Fox),2-May-03,21.49,2003,1
+110,80,66,13,14,0.5479,0.4815,Dr. Seuss' The Lorax (Universal),2-Mar-12,21.4,2012,0
+111,99,83,22,16,0.544,0.5789,Austin Powers in Goldmember (New Line),26-Jul-02,21.32,2002,0
+112,134,91,20,23,0.5956,0.4651,300 (Warner Bros.),9-Mar-07,21.06,2007,0
+113,59,2,6,1,0.9672,0.8571,Back to the Future (Universal),3-Jul-85,21.06,1985,1
+114,142,41,28,6,0.776,0.8235,Fast Five (Universal),29-Apr-11,20.98,2011,1
+115,194,13,35,1,0.9372,0.9722,Mission: Impossible - Ghost Protocol (Paramount),16-Dec-11,20.94,2011,1
+116,137,45,30,11,0.7527,0.7317,Wedding Crashers (New Line),15-Jul-05,20.92,2005,1
+117,161,68,22,18,0.7031,0.55,Sherlock Holmes (Warner Bros.),25-Dec-09,20.9,2009,1
+118,224,39,28,17,0.8517,0.6222,Batman Begins (Warner Bros.),15-Jun-05,20.69,2005,1
+119,182,40,36,7,0.8198,0.8372,Charlie and the Chocolate Factory (Warner Bros.),15-Jul-05,20.65,2005,1
+120,211,8,43,1,0.9635,0.9773,Ratatouille (Disney),29-Jun-07,20.64,2007,1
+121,43,42,11,9,0.5059,0.55,Austin Powers: The Spy Who Shagged Me (New Line),11-Jun-99,20.6,1999,0
+122,45,1,10,1,0.9783,0.9091,Terminator 2: Judgment Day (TriStar),3-Jul-91,20.48,1991,1
+123,45,7,7,2,0.8654,0.7778,The Exorcist (Warner Bros.),26-Dec-73,20.47,1973,1
+124,66,73,15,19,0.4748,0.4412,The Mummy Returns (Universal),4-May-01,20.2,2001,0
+125,32,50,3,16,0.3902,0.1579,Armageddon (Disney),1-Jul-98,20.16,1998,0
+126,164,19,29,3,0.8962,0.9063,Tangled (Disney),24-Nov-10,20.08,2010,1
+127,196,61,33,12,0.7626,0.7333,Superman Returns (Warner Bros.),28-Jun-06,20.01,2006,1
+128,64,3,15,2,0.9552,0.8824,Gone with the Wind (MGM),15-Dec-39,19.87,1939,1
+129,42,124,7,30,0.253,0.1892,Pearl Harbor (Disney),25-May-01,19.85,2001,0
+130,150,59,24,15,0.7177,0.6154,Monsters vs. Aliens (Paramount / DreamWorks),27-Mar-09,19.84,2009,1
+131,120,41,31,6,0.7453,0.8378,Happy Feet (Warner Bros.),17-Nov-06,19.8,2006,1
+132,50,6,5,2,0.8929,0.7143,Indiana Jones and the Last Crusade (Paramount),24-May-89,19.72,1989,1
+133,71,87,11,23,0.4494,0.3235,Ice Age: Dawn of the Dinosaurs (Fox),1-Jul-09,19.66,2009,0
+134,82,61,18,11,0.5734,0.6207,Ice Age: The Meltdown (Fox),31-Mar-06,19.53,2006,0
+135,102,83,14,23,0.5514,0.3784,Madagascar (DreamWorks),27-May-05,19.36,2005,0
+136,101,105,21,18,0.4903,0.5385,Twilight (2008) (Summit),21-Nov-08,19.28,2008,0
+137,76,0,18,0,1,1,Toy Story (Disney),22-Nov-95,19.18,1995,1
+138,76,123,17,20,0.3819,0.4595,Cars 2 (Disney),24-Jun-11,19.15,2011,0
+139,75,118,14,21,0.3886,0.4,Men in Black II (Sony / Columbia),3-Jul-02,19.04,2002,0
+140,45,10,9,2,0.8182,0.8182,Grease (Paramount),16-Jun-78,18.84,1978,1
+141,125,35,27,10,0.7813,0.7297,Gladiator (2000) (DreamWorks),5-May-00,18.77,2000,1
+142,122,80,17,21,0.604,0.4474,Sherlock Holmes: A Game of Shadows (Warner Bros.),16-Dec-11,18.68,2011,1
+143,95,115,18,25,0.4524,0.4186,The Day After Tomorrow (Fox),28-May-04,18.67,2004,0
+144,119,86,18,22,0.5805,0.45,Mr. & Mrs. Smith (2005) (Fox),10-Jun-05,18.63,2005,0
+145,39,1,6,0,0.975,1,Snow White and the Seven Dwarfs (Disney / RKO),21-Dec-37,18.49,1937,1
+146,40,11,7,3,0.7843,0.7,Dances with Wolves (Orion),9-Nov-90,18.42,1990,1
+147,24,34,10,4,0.4138,0.7143,Batman Forever (Warner Bros.),16-Jun-95,18.41,1995,0
+148,50,3,9,0,0.9434,1,The Fugitive (1993) (Warner Bros.),6-Aug-93,18.39,1993,1
+149,137,31,29,5,0.8155,0.8529,Ocean's Eleven (Warner Bros.),7-Dec-01,18.34,2001,1
+150,176,20,34,7,0.898,0.8293,The Simpsons Movie (Fox),27-Jul-07,18.31,2007,1
+151,65,56,22,12,0.5372,0.6471,What Women Want (2000) (Paramount),15-Dec-00,18.28,2000,0
+152,106,82,22,18,0.5638,0.55,The Polar Express (Warner Bros.),10-Nov-04,18.27,2004,0
+153,62,70,12,16,0.4697,0.4286,The Perfect Storm (Warner Bros.),30-Jun-00,18.26,2000,0
+154,43,10,14,2,0.8113,0.875,Liar Liar (Universal),21-Mar-97,18.14,1997,1
+155,78,79,9,23,0.4968,0.2813,Jurassic Park III (Universal),18-Jul-01,18.12,2001,0
+156,197,59,26,14,0.7695,0.65,Thor (Paramount),6-May-11,18.1,2011,1
+157,30,19,10,9,0.6122,0.5263,Mission: Impossible (Paramount),22-May-96,18.1,1996,1
+158,70,86,10,22,0.4487,0.3125,Planet of the Apes (2001) (Fox),27-Jul-01,18,2001,0
+159,96,54,18,12,0.64,0.6,Madagascar: Escape 2 Africa (Paramount / DreamWorks),7-Nov-08,18,2008,1
+160,94,158,8,36,0.373,0.1818,X-Men Origins: Wolverine (Fox),1-May-09,17.99,2009,0
+161,51,9,4,3,0.85,0.5714,Indiana Jones and the Temple of Doom (Paramount),23-May-84,17.99,1984,1
+162,124,55,22,13,0.6927,0.6286,Hitch (Sony / Columbia),11-Feb-05,17.95,2005,1
+163,154,67,25,10,0.6968,0.7143,Men in Black 3 (Sony / Columbia),25-May-12,17.9,2012,1
+164,34,21,6,3,0.6182,0.6667,Pretty Woman (Disney),23-Mar-90,17.84,1990,1
+165,70,93,13,19,0.4294,0.4063,Night at the Museum: Battle of the Smithsonian (Fox),22-May-09,17.72,2009,0
+166,35,5,6,0,0.875,1,Tootsie (Columbia),17-Dec-82,17.72,1982,1
+167,20,20,2,4,0.5,0.3333,Top Gun (Paramount),16-May-86,17.68,1986,0
+168,201,42,33,9,0.8272,0.7857,Rise of the Planet of the Apes (Fox),5-Aug-11,17.68,2011,1
+169,172,45,31,10,0.7926,0.7561,Captain America: The First Avenger (Paramount),22-Jul-11,17.67,2011,1
+170,133,66,22,12,0.6683,0.6471,The Karate Kid (2010) (Sony / Columbia),11-Jun-10,17.66,2010,1
+171,68,14,19,5,0.8293,0.7917,There's Something About Mary (Fox),15-Jul-98,17.65,1998,1
+172,126,38,25,9,0.7683,0.7353,Ice Age (Fox),15-Mar-02,17.64,2002,1
+173,152,36,30,10,0.8085,0.75,The Bourne Supremacy (Universal),23-Jul-04,17.62,2004,1
+174,23,3,1,1,0.8846,0.5,Crocodile Dundee (Paramount),26-Sep-86,17.48,1986,1
+175,67,2,16,1,0.971,0.9412,Apollo 13 (Universal),30-Jun-95,17.38,1995,1
+176,6,19,2,1,0.24,0.6667,Home Alone 2: Lost in New York (Fox),20-Nov-92,17.36,1992,0
+177,144,27,30,9,0.8421,0.7692,Elf (New Line),7-Nov-03,17.34,2003,1
+178,75,94,12,25,0.4438,0.3243,National Treasure (Disney),19-Nov-04,17.3,2004,0
+179,40,11,16,3,0.7843,0.8421,Air Force One (Sony / Columbia),25-Jul-97,17.3,1997,1
+180,50,7,2,5,0.8772,0.2857,Rain Man (MGM/UA),16-Dec-88,17.28,1988,1
+181,115,111,11,29,0.5088,0.275,TRON: Legacy (Disney),17-Dec-10,17.21,2010,0
+182,112,17,19,9,0.8682,0.6786,The Matrix (Warner Bros.),31-Mar-99,17.15,1999,1
+183,90,12,23,4,0.8824,0.8519,Tarzan (Disney),16-Jun-99,17.11,1999,1
+184,243,10,38,2,0.9605,0.95,True Grit (2010) (Paramount),22-Dec-10,17.11,2010,1
+185,143,40,30,7,0.7814,0.8108,A Beautiful Mind (Universal),21-Dec-01,17.07,2001,1
+186,185,27,36,3,0.8726,0.9231,Chicago (Miramax),27-Dec-02,17.07,2002,1
+187,150,47,28,13,0.7614,0.6829,The Help (Disney / DreamWorks),10-Aug-11,16.97,2011,1
+188,211,23,34,4,0.9017,0.8947,Bridesmaids (Universal),13-May-11,16.91,2011,1
+189,107,16,26,6,0.8699,0.8125,Wreck-It Ralph (Disney),2-Nov-12,16.87,2012,1
+190,157,87,15,28,0.6434,0.3488,Quantum of Solace (Sony / Columbia),14-Nov-08,16.84,2008,1
+191,21,120,3,33,0.1489,0.0833,Wild Hogs (Disney),2-Mar-07,16.83,2007,0
+192,21,7,4,1,0.75,0.8,Three Men and a Baby (Disney),25-Nov-87,16.78,1987,1
+193,208,12,44,2,0.9455,0.9565,Casino Royale (2006) (Sony / Columbia),17-Nov-06,16.74,2006,1
+194,122,24,30,7,0.8356,0.8108,Meet the Parents (Universal),6-Oct-00,16.62,2000,1
+195,92,144,12,26,0.3898,0.3158,2012 (Sony / Columbia),13-Nov-09,16.62,2009,0
+196,17,12,2,1,0.5862,0.6667,Robin Hood: Prince of Thieves (Warner Bros.),14-Jun-91,16.55,1991,0
+197,132,31,24,6,0.8098,0.8,Kung Fu Panda 2 (Paramount / DreamWorks),26-May-11,16.52,2011,1
+198,63,100,15,23,0.3865,0.3947,Hannibal (MGM),9-Feb-01,16.51,2001,0
+199,186,8,39,4,0.9588,0.907,Catch Me If You Can (2002) (DreamWorks),25-Dec-02,16.46,2002,1
+200,79,103,16,18,0.4341,0.4706,The Proposal (Disney),19-Jun-09,16.4,2009,0
+201,113,57,27,13,0.6647,0.675,The Pursuit of Happyness (Sony / Columbia),15-Dec-06,16.36,2006,1
+202,37,55,7,18,0.4022,0.28,Big Daddy (Sony / Columbia),25-Jun-99,16.35,1999,0
+203,67,170,13,25,0.2827,0.3421,Clash of the Titans (2010) (Warner Bros.),2-Apr-10,16.32,2010,0
+204,42,8,2,3,0.84,0.4,The Sound of Music (Fox),2-Mar-65,16.32,1965,1
+205,40,11,6,3,0.7843,0.6667,Batman Returns (Warner Bros.),19-Jun-92,16.28,1992,1
+206,77,7,18,1,0.9167,0.9474,A Bug's Life (Disney),20-Nov-98,16.28,1998,1
+207,16,145,3,30,0.0994,0.0909,Grown Ups (Sony / Columbia),25-Jun-10,16.2,2010,0
+208,23,50,4,13,0.3151,0.2353,The Waterboy (Disney),6-Nov-98,16.15,1998,0
+209,48,82,9,14,0.3692,0.3913,Ice Age: Continental Drift (Fox),13-Jul-12,16.1,2012,0
+210,113,84,16,21,0.5736,0.4324,Die Another Day (MGM),22-Nov-02,16.09,2002,0
+211,62,112,14,21,0.3563,0.4,Shark Tale (DreamWorks),1-Oct-04,16.09,2004,0
+212,44,4,4,1,0.9167,0.8,The Sting (Universal),25-Dec-73,15.96,1973,1
+213,39,13,4,5,0.75,0.4444,The Firm (Paramount),2-Jul-93,15.84,1993,1
+214,51,112,15,21,0.3129,0.4167,The Longest Yard (2005) (Paramount),27-May-05,15.81,2005,0
+215,127,28,19,13,0.8194,0.5938,X-Men (Fox),14-Jul-00,15.73,2000,1
+216,59,52,15,14,0.5315,0.5172,Scary Movie (Miramax / Dimension),7-Jul-00,15.7,2000,0
+217,34,9,5,2,0.7907,0.7143,Fatal Attraction (Paramount),18-Sep-87,15.66,1987,1
+218,56,67,13,17,0.4553,0.4333,What Lies Beneath (DreamWorks),21-Jul-00,15.55,2000,0
+219,45,37,8,10,0.5488,0.4444,The Mummy (Universal),7-May-99,15.54,1999,0
+220,47,125,7,24,0.2733,0.2258,Fast & Furious (Universal),3-Apr-09,15.52,2009,0
+221,98,104,24,16,0.4851,0.6,Snow White and the Huntsman (Universal),1-Jun-12,15.51,2012,0
+222,123,42,24,12,0.7455,0.6667,Over the Hedge (Paramount / DreamWorks),19-May-06,15.5,2006,1
+223,54,149,10,25,0.266,0.2857,Fantastic Four (Fox),8-Jul-05,15.47,2005,0
+224,103,28,28,6,0.7863,0.8235,Dr. Seuss' Horton Hears a Who! (Fox),14-Mar-08,15.45,2008,1
+225,46,1,7,1,0.9787,0.875,Who Framed Roger Rabbit (Disney),22-Jun-88,15.41,1988,1
+226,50,9,18,2,0.8475,0.9,Jerry Maguire (Sony / TriStar),13-Dec-96,15.4,1996,1
+227,11,13,0,1,0.4583,0,Beverly Hills Cop II (Paramount),20-May-87,15.37,1987,0
+228,42,100,12,18,0.2958,0.4,Scooby-Doo (Warner Bros.),14-Jun-02,15.33,2002,0
+229,43,9,2,3,0.8269,0.4,Gremlins (Warner Bros.),8-Jun-84,15.31,1984,1
+230,87,88,22,21,0.4971,0.5116,Sex and the City (Warner Bros. / New Line),30-May-08,15.26,2008,0
+231,38,45,10,17,0.4578,0.3704,Runaway Bride (Paramount),30-Jul-99,15.23,1999,0
+232,9,22,0,2,0.2903,0,Rambo: First Blood Part II (TriStar),22-May-85,15.04,1985,0
+233,139,59,24,16,0.702,0.6,Terminator 3: Rise of the Machines (Warner Bros.),2-Jul-03,15.04,2003,1
+234,54,103,6,20,0.3439,0.2308,G.I. Joe: The Rise of Cobra (Paramount),7-Aug-09,15.02,2009,0
+235,116,23,19,3,0.8345,0.8636,Puss in Boots (2011) (Paramount / DreamWorks),28-Oct-11,14.93,2011,1
+236,209,22,40,3,0.9048,0.9302,Knocked Up (Universal),1-Jun-07,14.88,2007,1
+237,65,11,19,2,0.8553,0.9048,As Good as It Gets (Sony / TriStar),23-Dec-97,14.85,1997,1
+238,14,130,1,28,0.0972,0.0345,Little Fockers (Universal),22-Dec-10,14.84,2010,0
+239,126,47,23,9,0.7283,0.7188,Megamind (Paramount / DreamWorks),5-Nov-10,14.84,2010,1
+240,132,51,29,12,0.7213,0.7073,Talladega Nights: The Ballad of Ricky Bobby (Sony / Columbia),4-Aug-06,14.82,2006,1
+241,177,45,31,12,0.7973,0.7209,Gran Torino (Warner Bros.),12-Dec-08,14.81,2008,1
+242,30,6,5,0,0.8333,1,Lethal Weapon 2 (Warner Bros.),7-Jul-89,14.73,1989,1
+243,210,31,29,12,0.8714,0.7073,X-Men: First Class (Fox),3-Jun-11,14.64,2011,1
+244,37,76,8,19,0.3274,0.2963,Paul Blart: Mall Cop (Sony / Columbia),16-Jan-09,14.63,2009,0
+245,33,13,5,4,0.7174,0.5556,True Lies (Fox),15-Jul-94,14.63,1994,1
+246,124,21,23,7,0.8552,0.7667,Lilo & Stitch (Disney),21-Jun-02,14.58,2002,1
+247,66,60,9,24,0.5238,0.2727,American Pie 2 (Universal),10-Aug-01,14.51,2001,0
+248,98,70,15,21,0.5833,0.4167,Taken (Fox),30-Jan-09,14.5,2009,0
+249,36,1,5,0,0.973,1,101 Dalmatians (1961) (Disney),25-Jan-61,14.49,1961,1
+250,32,8,4,2,0.8,0.6667,The Santa Clause (Disney),11-Nov-94,14.48,1994,1
+251,113,81,18,19,0.5825,0.4865,"I, Robot (Fox)",16-Jul-04,14.48,2004,0
+252,24,19,3,6,0.5581,0.3333,Lethal Weapon 3 (Warner Bros.),15-May-92,14.47,1992,0
+253,76,69,21,13,0.5241,0.6176,The Fast and the Furious (Universal),22-Jun-01,14.45,2001,0
+254,22,28,4,4,0.44,0.5,Doctor Dolittle (1998) (Fox),26-Jun-98,14.42,1998,0
+255,96,81,17,23,0.5424,0.425,Mamma Mia! (Universal),18-Jul-08,14.41,2008,0
+256,58,76,10,16,0.4328,0.3846,Hotel Transylvania (Sony / Columbia),28-Sep-12,14.39,2012,0
+257,102,40,18,8,0.7183,0.6923,Rio (2011) (Fox),15-Apr-11,14.36,2011,1
+258,194,12,38,0,0.9417,1,Juno (Fox Searchlight),5-Dec-07,14.35,2007,1
+259,85,50,18,16,0.6296,0.5294,Marley & Me (Fox),25-Dec-08,14.32,2008,1
+260,26,87,5,16,0.2301,0.2381,The Smurfs (Sony / Columbia),29-Jul-11,14.26,2011,0
+261,86,92,12,21,0.4831,0.3636,XXX (Sony / Columbia),9-Aug-02,14.21,2002,0
+262,125,62,24,15,0.6684,0.6154,The Chronicles of Narnia: Prince Caspian (Disney),16-May-08,14.16,2008,1
+263,38,4,4,1,0.9048,0.8,National Lampoon's Animal House (Universal),28-Jul-78,14.16,1978,1
+264,29,23,10,4,0.5577,0.7143,Pocahontas (Disney),16-Jun-95,14.16,1995,0
+265,35,8,8,1,0.814,0.8889,A Few Good Men (Columbia),11-Dec-92,14.13,1992,1
+266,212,14,38,2,0.9381,0.95,Slumdog Millionaire (Fox Searchlight),12-Nov-08,14.13,2008,1
+267,40,26,7,8,0.6061,0.4667,Rush Hour (New Line),18-Sep-98,14.12,1998,1
+268,118,18,28,3,0.8676,0.9032,The Blair Witch Project (Artisan),14-Jul-99,14.05,1999,1
+269,24,27,2,4,0.4706,0.3333,Deep Impact (Paramount),8-May-98,14.05,1998,0
+270,30,127,7,24,0.1911,0.2258,Rush Hour 3 (New Line),10-Aug-07,14.01,2007,0
+271,19,14,2,5,0.5758,0.2857,Look Who's Talking (TriStar),13-Oct-89,14.01,1989,0
+272,64,33,17,13,0.6598,0.5667,Stuart Little (Sony / Columbia),17-Dec-99,14,1999,1
+273,30,9,0,3,0.7692,0,The Rocky Horror Picture Show (Fox),26-Sep-75,13.99,1975,1
+274,15,6,2,1,0.7143,0.6667,Sister Act (Disney),29-May-92,13.96,1992,1
+275,74,133,10,28,0.3575,0.2632,The Matrix Revolutions (Warner Bros.),5-Nov-03,13.93,2003,0
+276,62,51,14,15,0.5487,0.4828,The Santa Clause 2 (Disney),1-Nov-02,13.92,2002,0
+277,207,12,36,1,0.9452,0.973,The King's Speech (Weinstein Company),26-Nov-10,13.88,2010,1
+278,26,87,10,21,0.2301,0.3226,Cheaper by the Dozen (Fox),25-Dec-03,13.86,2003,0
+279,37,125,6,34,0.2284,0.15,Bad Boys II (Sony / Columbia),18-Jul-03,13.86,2003,0
+280,39,6,7,3,0.8667,0.7,Platoon (Orion),19-Dec-86,13.85,1986,1
+281,174,31,33,5,0.8488,0.8684,21 Jump Street (Sony / Columbia),16-Mar-12,13.84,2012,1
+282,67,2,16,0,0.971,1,Good Will Hunting (Miramax),5-Dec-97,13.84,1997,1
+283,63,4,15,2,0.9403,0.8824,Star Wars: Special Edition (Fox),31-Jan-97,13.83,1997,1
+284,33,123,8,22,0.2115,0.2667,Taken 2 (Fox),5-Oct-12,13.81,2012,0
+285,100,86,17,16,0.5376,0.5152,Disney's A Christmas Carol (Disney),6-Nov-09,13.78,2009,0
+286,79,43,20,11,0.6475,0.6452,Dinosaur (Disney),19-May-00,13.77,2000,1
+287,54,112,11,26,0.3253,0.2973,Click (Sony / Columbia),23-Jun-06,13.74,2006,0
+288,105,27,24,9,0.7955,0.7273,The Green Mile (Warner Bros.),10-Dec-99,13.68,1999,1
+289,24,9,5,3,0.7273,0.625,Ransom (Disney),8-Nov-96,13.65,1996,1
+290,16,46,4,6,0.2581,0.4,Godzilla (1998) (Sony / TriStar),20-May-98,13.63,1998,0
+291,13,20,1,5,0.3939,0.1667,101 Dalmatians (1996) (Disney),27-Nov-96,13.62,1996,0
+292,82,107,18,22,0.4339,0.45,Anger Management (Sony / Columbia),11-Apr-03,13.56,2003,0
+293,25,4,1,1,0.8621,0.5,The Jungle Book (1967) (Disney),18-Oct-67,13.55,1967,1
+294,58,101,9,26,0.3648,0.2571,Chicken Little (Disney),4-Nov-05,13.54,2005,0
+295,17,22,4,3,0.4359,0.5714,Teenage Mutant Ninja Turtles (1990) (New Line),30-Mar-90,13.53,1990,0
+296,13,43,4,13,0.2321,0.2353,Patch Adams (Universal),25-Dec-98,13.5,1998,0
+297,76,0,14,0,1,1,The Godfather (Paramount),15-Mar-72,13.5,1972,1
+298,147,72,22,18,0.6712,0.55,The Incredible Hulk (Universal),13-Jun-08,13.48,2008,1
+299,167,38,33,8,0.8146,0.8049,Live Free or Die Hard (Fox),27-Jun-07,13.45,2007,1
+300,142,59,29,12,0.7065,0.7073,Wanted (2008) (Universal),27-Jun-08,13.45,2008,1
+301,33,16,10,6,0.6735,0.625,The Rock (Disney),7-Jun-96,13.41,1996,1
+302,154,65,28,16,0.7032,0.6364,Mission: Impossible III (Paramount),5-May-06,13.4,2006,1
+303,92,156,14,29,0.371,0.3256,Angels & Demons (Sony / Columbia),15-May-09,13.34,2009,0
+304,121,101,28,16,0.545,0.6364,Troy (Warner Bros.),14-May-04,13.34,2004,0
+305,9,63,2,17,0.125,0.1053,Alvin and the Chipmunks: Chipwrecked (Fox),16-Dec-11,13.31,2011,0
+306,50,97,12,21,0.3401,0.3636,Bringing Down the House (Disney),7-Mar-03,13.27,2003,0
+307,212,17,43,3,0.9258,0.9348,The Departed (Warner Bros.),6-Oct-06,13.24,2006,1
+308,141,87,23,20,0.6184,0.5349,Hulk (Universal),20-Jun-03,13.22,2003,1
+309,38,2,5,0,0.95,1,Close Encounters of the Third Kind (Columbia),16-Nov-77,13.21,1977,1
+310,207,19,35,4,0.9159,0.8974,Minority Report (Fox),21-Jun-02,13.21,2002,1
+311,62,105,12,24,0.3713,0.3333,Fantastic Four: Rise of the Silver Surfer (Fox),15-Jun-07,13.19,2007,0
+312,11,165,2,31,0.0625,0.0606,The Last Airbender (Paramount),1-Jul-10,13.16,2010,0
+313,29,126,7,29,0.1871,0.1944,"Lara Croft, Tomb Raider (Paramount)",15-Jun-01,13.12,2001,0
+314,52,2,10,1,0.963,0.9091,The Silence of the Lambs (Orion),14-Feb-91,13.07,1991,1
+315,23,8,3,1,0.7419,0.75,"Honey, I Shrunk the Kids (Disney)",23-Jun-89,13.07,1989,1
+316,9,32,2,5,0.2195,0.2857,The Flintstones (Universal),27-May-94,13.06,1994,0
+317,34,32,6,7,0.5152,0.4615,Lethal Weapon 4 (Warner Bros.),10-Jul-98,13.04,1998,0
+318,108,104,21,19,0.5094,0.525,Get Smart (Warner Bros.),20-Jun-08,13.03,2008,0
+319,167,43,34,10,0.7952,0.7727,American Gangster (Universal),2-Nov-07,13.02,2007,1
+320,135,18,30,3,0.8824,0.9091,American Beauty (DreamWorks),15-Sep-99,13.01,1999,1
+321,16,1,1,0,0.9412,1,An Officer and a Gentleman (Paramount),28-Jul-82,12.98,1982,1
+322,128,52,20,16,0.7111,0.5556,The Ring (DreamWorks),18-Oct-02,12.91,2002,1
+323,35,19,14,2,0.6481,0.875,The Nutty Professor (1996) (Universal),28-Jun-96,12.88,1996,1
+324,193,18,42,1,0.9147,0.9767,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (Fox),3-Nov-06,12.85,2006,1
+325,113,64,25,11,0.6384,0.6944,Robots (Fox),11-Mar-05,12.82,2005,1
+326,25,12,0,5,0.6757,0,Coming to America (Paramount),29-Jun-88,12.82,1988,1
+327,143,4,33,1,0.9728,0.9706,"Crouching Tiger, Hidden Dragon (Sony Pictures Classics)",8-Dec-00,12.81,2000,1
+328,166,76,24,16,0.686,0.6,Shutter Island (Paramount),19-Feb-10,12.8,2010,1
+329,15,19,0,4,0.4412,0,Rocky IV (MGM/UA),27-Nov-85,12.79,1985,0
+330,153,11,33,3,0.9329,0.9167,Enchanted (Disney),21-Nov-07,12.78,2007,1
+331,168,64,29,10,0.7241,0.7436,The Curious Case of Benjamin Button (Paramount),25-Dec-08,12.75,2008,1
+332,58,98,13,21,0.3718,0.3824,Sweet Home Alabama (Disney),27-Sep-02,12.72,2002,0
+333,29,17,4,6,0.6304,0.4,Dumb and Dumber (New Line),16-Dec-94,12.72,1994,1
+334,56,99,13,21,0.3613,0.3824,2 Fast 2 Furious (Universal),6-Jun-03,12.72,2003,0
+335,40,16,10,7,0.7143,0.5882,My Best Friend's Wedding (Sony / TriStar),20-Jun-97,12.71,1997,1
+336,216,46,33,9,0.8244,0.7857,Super 8 (Paramount),9-Jun-11,12.7,2011,1
+337,61,59,17,12,0.5083,0.5862,The World Is Not Enough (MGM),19-Nov-99,12.69,1999,0
+338,20,5,0,1,0.8,0,Smokey and the Bandit (Universal),27-May-77,12.67,1977,1
+339,32,13,6,5,0.7111,0.5455,Sleepless in Seattle (TriStar),25-Jun-93,12.67,1993,1
+340,86,83,19,20,0.5089,0.4872,Bee Movie (Paramount / DreamWorks),2-Nov-07,12.66,2007,0
+341,193,69,30,12,0.7366,0.7143,Prometheus (Fox),8-Jun-12,12.65,2012,1
+342,34,121,6,26,0.2194,0.1875,Mr. Deeds (Sony / Columbia),28-Jun-02,12.63,2002,0
+343,94,82,18,14,0.5341,0.5625,Safe House (Universal),10-Feb-12,12.62,2012,0
+344,94,5,18,2,0.9495,0.9,The Truman Show (Paramount),5-Jun-98,12.56,1998,1
+345,119,23,31,4,0.838,0.8857,Erin Brockovich (Universal),17-Mar-00,12.56,2000,1
+346,98,78,23,16,0.5568,0.5897,Ocean's Twelve (Warner Bros.),10-Dec-04,12.55,2004,0
+347,88,180,13,27,0.3284,0.325,Terminator Salvation (Warner Bros.),21-May-09,12.53,2009,0
+348,95,46,22,13,0.6738,0.6286,Charlie's Angels (Sony / Columbia),3-Nov-00,12.53,2000,1
+349,36,27,5,9,0.5714,0.3571,Tomorrow Never Dies (MGM/UA),19-Dec-97,12.53,1997,0
+350,18,12,1,1,0.6,0.5,Rocky III (MGM/UA),28-May-82,12.5,1982,1
+351,36,88,7,21,0.2903,0.25,The Vow (Sony / Screen Gems),10-Feb-12,12.5,2012,0
+352,117,19,15,7,0.8603,0.6818,Cloudy with a Chance of Meatballs (Sony / Columbia),18-Sep-09,12.49,2009,1
+353,140,45,36,8,0.7568,0.8182,The Devil Wears Prada (Fox),30-Jun-06,12.47,2006,1
+354,116,48,30,10,0.7073,0.75,Something's Gotta Give (Sony / Columbia),12-Dec-03,12.47,2003,1
+355,143,13,37,3,0.9167,0.925,Traffic (USA Films),27-Dec-00,12.41,2000,1
+356,33,10,10,1,0.7674,0.9091,The Birdcage (MGM/UA),8-Mar-96,12.41,1996,1
+357,27,3,3,0,0.9,1,City Slickers (Columbia),7-Jun-91,12.4,1991,1
+358,33,4,3,1,0.8919,0.75,"Good Morning, Vietnam (Disney)",23-Dec-87,12.39,1987,1
+359,22,63,8,14,0.2588,0.3636,Nutty Professor II: The Klumps (Universal),28-Jul-00,12.33,2000,0
+360,184,26,30,5,0.8762,0.8571,Rango (Paramount),4-Mar-11,12.33,2011,1
+361,31,7,7,2,0.8158,0.7778,Clear and Present Danger (Paramount),3-Aug-94,12.22,1994,1
+362,42,2,4,1,0.9545,0.8,The Hunt for Red October (Paramount),2-Mar-90,12.2,1990,1
+363,11,23,1,5,0.3235,0.1667,The Bodyguard (Warner Bros.),25-Nov-92,12.19,1992,0
+364,39,7,5,2,0.8478,0.7143,Wayne's World (Paramount),14-Feb-92,12.17,1992,1
+365,153,31,30,8,0.8315,0.7895,The Bourne Identity (Universal),14-Jun-02,12.17,2002,1
+366,181,25,37,6,0.8786,0.8605,Superbad (Sony / Columbia),17-Aug-07,12.15,2007,1
+367,38,4,7,2,0.9048,0.7778,Speed (Fox),10-Jun-94,12.13,1994,1
+368,76,96,18,21,0.4419,0.4615,50 First Dates (Sony / Columbia),13-Feb-04,12.09,2004,0
+369,62,10,10,4,0.8611,0.7143,Mulan (Disney),19-Jun-98,12.06,1998,1
+370,235,31,33,11,0.8835,0.75,Inglourious Basterds (Weinstein Company),21-Aug-09,12.05,2009,1
+371,154,45,36,9,0.7739,0.8,Seabiscuit (Universal),25-Jul-03,12.03,2003,1
+372,47,161,7,32,0.226,0.1795,Van Helsing (Universal),7-May-04,12.02,2004,0
+373,36,107,5,23,0.2517,0.1786,Four Christmases (Warner Bros. / New Line),26-Nov-08,12.01,2008,0
+374,22,134,5,31,0.141,0.1389,I Now Pronounce You Chuck and Larry (Universal),20-Jul-07,12.01,2007,0
+375,33,11,5,4,0.75,0.5556,The Mask (New Line),29-Jul-94,11.99,1994,1
+376,11,27,3,4,0.2895,0.4286,Hook (TriStar),11-Dec-91,11.97,1991,0
+377,167,36,32,10,0.8227,0.7619,Walk the Line (Fox),18-Nov-05,11.95,2005,1
+378,41,5,4,1,0.8913,0.8,Blazing Saddles (Warner Bros.),7-Feb-74,11.95,1974,1
+379,25,95,3,20,0.2083,0.1304,G-Force (Disney),24-Jul-09,11.94,2009,0
+380,43,8,7,2,0.8431,0.7778,Total Recall (1990) (TriStar),1-Jun-90,11.94,1990,1
+381,21,2,4,1,0.913,0.8,On Golden Pond (Universal),4-Dec-81,11.93,1981,1
+382,151,42,26,7,0.7824,0.7879,The Other Guys (Sony / Columbia),6-Aug-10,11.92,2010,1
+383,189,38,38,8,0.8326,0.8261,Fahrenheit 9/11 (Lionsgate),23-Jun-04,11.92,2004,1
+384,99,69,17,19,0.5893,0.4722,The Sum of All Fears (Paramount),31-May-02,11.89,2002,0
+385,194,19,43,1,0.9108,0.9773,Hairspray (2007) (New Line),20-Jul-07,11.89,2007,1
+386,63,125,8,34,0.3351,0.1905,The Break-Up (Universal),2-Jun-06,11.88,2006,0
+387,113,45,21,13,0.7152,0.6176,Lemony Snicket's A Series of Unfortunate Events (Paramount),17-Dec-04,11.86,2004,1
+388,128,56,28,14,0.6957,0.6667,Blades of Glory (Paramount / DreamWorks),30-Mar-07,11.86,2007,1
+389,27,15,2,4,0.6429,0.3333,Back to the Future Part II (Universal),22-Nov-89,11.85,1989,1
+390,142,87,23,16,0.6201,0.5897,Salt (Sony / Columbia),23-Jul-10,11.83,2010,1
+391,29,16,7,4,0.6444,0.6364,Basic Instinct (TriStar),20-Mar-92,11.77,1992,1
+392,24,57,9,17,0.2963,0.3462,Big Momma's House (Fox),2-Jun-00,11.76,2000,0
+393,30,16,5,3,0.6522,0.625,Die Hard 2: Die Harder (Fox),4-Jul-90,11.75,1990,1
+394,138,62,23,17,0.69,0.575,Horrible Bosses (Warner Bros. / New Line),8-Jul-11,11.75,2011,1
+395,42,4,4,2,0.913,0.6667,Rocky (United Artists),21-Nov-76,11.72,1976,1
+396,66,38,7,13,0.6346,0.35,Jackass 3D (Paramount),15-Oct-10,11.72,2010,1
+397,137,59,27,18,0.699,0.6,Ocean's Thirteen (Warner Bros.),8-Jun-07,11.72,2007,1
+398,78,85,15,25,0.4785,0.375,S.W.A.T. (Sony / Columbia),8-Aug-03,11.69,2003,0
+399,146,47,35,6,0.7565,0.8537,8 Mile (Universal),8-Nov-02,11.68,2002,1
+400,21,63,4,18,0.25,0.1818,Double Jeopardy (Paramount),24-Sep-99,11.67,1999,0
+401,58,163,7,32,0.2624,0.1795,Green Lantern (Warner Bros.),17-Jun-11,11.66,2011,0
+402,81,17,21,7,0.8265,0.75,Notting Hill (Universal),28-May-99,11.61,1999,1
+403,57,26,16,5,0.6867,0.7619,You've Got Mail (Warner Bros.),18-Dec-98,11.58,1998,1
+404,36,99,7,15,0.2667,0.3182,Ghost Rider (Sony / Columbia),16-Feb-07,11.58,2007,0
+405,96,36,21,12,0.7273,0.6364,Remember the Titans (Disney),29-Sep-00,11.57,2000,1
+406,234,23,36,4,0.9105,0.9,District 9 (Sony / TriStar),14-Aug-09,11.56,2009,1
+407,9,13,0,0,0.4091,#DIV/0!,The Karate Kid Part II (Columbia),20-Jun-86,11.51,1986,0
+408,36,1,4,0,0.973,1,American Graffiti (Universal),1-Aug-73,11.5,1973,1
+409,53,2,4,1,0.9636,0.8,Big (Fox),3-Jun-88,11.5,1988,1
+410,112,48,23,14,0.7,0.6216,DodgeBall: A True Underdog Story (Fox),18-Jun-04,11.43,2004,1
+411,88,116,19,22,0.4314,0.4634,The Village (Disney),30-Jul-04,11.42,2004,0
+412,157,21,25,7,0.882,0.7813,Bolt (Disney),21-Nov-08,11.41,2008,1
+413,22,82,4,21,0.2115,0.16,Wild Wild West (Warner Bros.),30-Jun-99,11.38,1999,0
+414,148,38,34,3,0.7957,0.9189,Magic Mike (Warner Bros.),29-Jun-12,11.37,2012,1
+415,24,16,1,6,0.6,0.1429,The Addams Family (Paramount),22-Nov-91,11.35,1991,1
+416,82,50,14,16,0.6212,0.4667,The Patriot (Sony / Columbia),28-Jun-00,11.33,2000,1
+417,117,92,21,17,0.5598,0.5526,The Bourne Legacy (Universal),10-Aug-12,11.32,2012,0
+418,26,102,5,28,0.2031,0.1515,The Pacifier (Disney),4-Mar-05,11.31,2005,0
+419,44,62,14,18,0.4151,0.4375,Dr. Dolittle 2 (Fox),22-Jun-01,11.3,2001,0
+420,95,75,22,14,0.5588,0.6111,It's Complicated (Universal),25-Dec-09,11.27,2009,0
+421,117,9,26,1,0.9286,0.963,Spy Kids (Miramax / Dimension),30-Mar-01,11.27,2001,1
+422,18,17,3,2,0.5143,0.6,Ghostbusters II (Columbia),16-Jun-89,11.25,1989,0
+423,59,4,16,0,0.9365,1,Face/Off (Paramount),27-Jun-97,11.23,1997,1
+424,49,2,5,2,0.9608,0.7143,One Flew Over the Cuckoo's Nest (United Artists),20-Nov-75,11.2,1975,1
+425,10,18,3,1,0.3571,0.75,Twins (Universal),9-Dec-88,11.19,1988,0
+426,62,75,12,19,0.4526,0.3871,Spy Kids 3D: Game Over (Miramax / Dimension),25-Jul-03,11.18,2003,0
+427,28,5,3,2,0.8485,0.6,Doctor Zhivago (MGM),22-Dec-65,11.17,1965,1
+428,59,24,13,8,0.7108,0.619,Enemy of the State (Disney),16-Nov-98,11.15,1998,1
+429,47,5,6,1,0.9038,0.8571,The Little Mermaid (Disney),15-Nov-89,11.15,1989,1
+430,7,15,0,1,0.3182,0,Porky's (Fox),19-Mar-82,11.13,1982,0
+431,139,75,23,19,0.6495,0.5476,The Last Samurai (Warner Bros.),5-Dec-03,11.11,2003,1
+432,189,39,34,8,0.8289,0.8095,Tropic Thunder (Paramount / DreamWorks),13-Aug-08,11.05,2008,1
+433,33,150,5,31,0.1803,0.1389,Valentine's Day (Warner Bros. / New Line),12-Feb-10,11.05,2010,0
+434,62,93,9,25,0.4,0.2647,The Grudge (Sony / Columbia),22-Oct-04,11.04,2004,0
+435,38,94,9,23,0.2879,0.2813,Fun with Dick and Jane (2005) (Sony / Columbia),21-Dec-05,11.03,2005,0
+436,129,18,31,5,0.8776,0.8611,Freaky Friday (2003) (Disney),6-Aug-03,11.02,2003,1
+437,27,80,6,20,0.2523,0.2308,Bedtime Stories (Disney),25-Dec-08,11.01,2008,0
+438,46,81,11,19,0.3622,0.3667,Scary Movie 3 (Miramax / Dimension),24-Oct-03,11,2003,0
+439,32,6,5,2,0.8421,0.7143,Star Trek IV: The Voyage Home (Paramount),26-Nov-86,10.97,1986,1
+440,154,26,32,5,0.8556,0.8649,The 40-Year-Old Virgin (Universal),19-Aug-05,10.94,2005,1
+441,3,23,0,4,0.1154,0,Crocodile Dundee II (Paramount),25-May-88,10.93,1988,0
+442,18,137,4,26,0.1161,0.1333,Couples Retreat (Universal),9-Oct-09,10.92,2009,0
+443,34,17,8,5,0.6667,0.6154,A Time to Kill (Warner Bros.),24-Jul-96,10.88,1996,1
+444,129,41,28,11,0.7588,0.7179,Black Hawk Down (Sony / Columbia),28-Dec-01,10.86,2001,1
+445,32,4,4,1,0.8889,0.8,Terms of Endearment (Paramount),23-Nov-83,10.84,1983,1
+446,8,16,1,2,0.3333,0.3333,Ace Ventura: When Nature Calls (Warner Bros.),10-Nov-95,10.84,1995,0
+447,53,60,13,16,0.469,0.4483,The Princess Diaries (Disney),3-Aug-01,10.82,2001,0
+448,37,5,5,0,0.881,1,Superman II (Warner Bros.),19-Jun-81,10.82,1981,1
+449,34,98,6,15,0.2576,0.2857,HOP (Universal),1-Apr-11,10.81,2011,0
+450,55,3,15,1,0.9483,0.9375,Pulp Fiction (Miramax),14-Oct-94,10.8,1994,1
+451,155,33,24,2,0.8245,0.9231,Paranormal Activity (Paramount),25-Sep-09,10.79,2009,1
+452,164,17,41,2,0.9061,0.9535,Lincoln (Disney / DreamWorks),9-Nov-12,10.77,2012,1
+453,37,8,6,3,0.8222,0.6667,A League of Their Own (Sony / Columbia),1-Jul-92,10.75,1992,1
+454,185,103,21,26,0.6424,0.4468,Watchmen (Warner Bros.),6-Mar-09,10.75,2009,1
+455,8,58,3,13,0.1212,0.1875,Batman and Robin (Warner Bros.),20-Jun-97,10.73,1997,0
+456,20,6,3,1,0.7692,0.75,The Towering Inferno (Fox),14-Dec-74,10.71,1974,1
+457,233,34,36,6,0.8727,0.8571,Black Swan (Fox Searchlight),3-Dec-10,10.7,2010,1
+458,69,32,14,8,0.6832,0.6364,Analyze This (Warner Bros.),5-Mar-99,10.69,1999,1
+459,136,5,31,0,0.9645,1,Chicken Run (DreamWorks),21-Jun-00,10.68,2000,1
+460,48,67,8,20,0.4174,0.2857,Miss Congeniality (Warner Bros.),22-Dec-00,10.68,2000,0
+461,40,9,9,5,0.8163,0.6429,GoldenEye (MGM/UA),17-Nov-95,10.66,1995,1
+462,13,23,1,3,0.3611,0.25,Indecent Proposal (Paramount),7-Apr-93,10.66,1993,0
+463,34,9,8,0,0.7907,1,Driving Miss Daisy (Warner Bros.),13-Dec-89,10.66,1989,1
+464,13,10,4,0,0.5652,1,Love Story (Paramount),16-Dec-70,10.64,1970,0
+465,30,4,5,1,0.8824,0.8333,Kramer Vs. Kramer (Columbia),19-Dec-79,10.63,1979,1
+466,129,49,33,8,0.7247,0.8049,The Italian Job (Paramount),30-May-03,10.61,2003,1
+467,62,85,12,23,0.4218,0.3429,How to Lose a Guy in 10 Days (Paramount),7-Feb-03,10.58,2003,0
+468,13,20,2,6,0.3939,0.25,The First Wives Club (Paramount),20-Sep-96,10.55,1996,0
+469,103,133,15,23,0.4364,0.3947,Robin Hood (Universal),14-May-10,10.53,2010,0
+470,29,19,4,6,0.6042,0.4,Interview with the Vampire (Warner Bros.),11-Nov-94,10.53,1994,1
+471,29,23,11,4,0.5577,0.7333,George of the Jungle (Disney),16-Jul-97,10.53,1997,0
+472,232,11,41,2,0.9547,0.9535,Argo (Warner Bros.),12-Oct-12,10.5,2012,1
+473,42,6,5,2,0.875,0.7143,The Graduate (AVCO Embassy),21-Dec-67,10.49,1967,1
+474,17,17,1,5,0.5,0.1667,Phenomenon (Disney),3-Jul-96,10.46,1996,0
+475,84,68,15,20,0.5526,0.4286,American Wedding (Universal),1-Aug-03,10.46,2003,0
+476,170,37,30,8,0.8213,0.7895,Road to Perdition (DreamWorks),12-Jul-02,10.45,2002,1
+477,135,26,27,7,0.8385,0.7941,The Princess and the Frog (Disney),25-Nov-09,10.44,2009,1
+478,76,80,14,15,0.4872,0.4828,The Chronicles of Narnia: The Voyage of the Dawn Treader (Fox),10-Dec-10,10.44,2010,0
+479,35,90,9,26,0.28,0.2571,Daddy Day Care (Sony / Columbia),9-May-03,10.43,2003,0
+480,76,36,12,8,0.6786,0.6,Paranormal Activity 3 (Paramount),21-Oct-11,10.4,2011,1
+481,29,16,3,5,0.6444,0.375,Dick Tracy (Disney),15-Jun-90,10.39,1990,1
+482,51,74,7,19,0.408,0.2692,Journey 2: The Mysterious Island (Warner Bros. / New Line),10-Feb-12,10.39,2012,0
+483,156,44,40,6,0.78,0.8696,Dreamgirls (Paramount / DreamWorks),15-Dec-06,10.34,2006,1
+484,23,5,2,1,0.8214,0.6667,9 to 5 (Fox),19-Dec-80,10.33,1980,1
+485,80,115,10,22,0.4103,0.3125,The Expendables (Lionsgate),13-Aug-10,10.31,2010,0
+486,49,10,12,4,0.8305,0.75,Scream (Miramax / Dimension),20-Dec-96,10.3,1996,1
+487,25,107,8,24,0.1894,0.25,Just Go With It (Sony / Columbia),11-Feb-11,10.3,2011,0
+488,41,4,4,0,0.9111,1,Bambi (Disney / RKO),13-Aug-42,10.28,1942,1
+489,20,68,4,20,0.2273,0.1667,The General's Daughter (Paramount),18-Jun-99,10.27,1999,0
+490,186,27,37,8,0.8732,0.8222,The Aviator (2004) (Miramax),17-Dec-04,10.26,2004,1
+491,74,48,14,12,0.6066,0.5385,American Pie (Universal),9-Jul-99,10.26,1999,1
+492,96,117,9,27,0.4507,0.25,Daredevil (Fox),14-Feb-03,10.25,2003,0
+493,188,30,34,9,0.8624,0.7907,The Girl with the Dragon Tattoo (2011) (Sony / Columbia),20-Dec-11,10.25,2011,1
+494,22,146,3,32,0.131,0.0857,The Mummy: Tomb of the Dragon Emperor (Universal),1-Aug-08,10.25,2008,0
+495,41,2,6,1,0.9535,0.8571,In the Line of Fire (Columbia),9-Jul-93,10.23,1993,1
+496,40,5,3,3,0.8889,0.5,Butch Cassidy and the Sundance Kid (Fox),23-Sep-69,10.23,1969,1
+497,39,0,3,0,1,1,Mary Poppins (Disney),29-Aug-64,10.23,1964,1
+498,94,61,24,9,0.6065,0.7273,Journey to the Center of the Earth (Warner Bros. / New Line),11-Jul-08,10.17,2008,1
+499,33,101,8,28,0.2463,0.2222,Gone in 60 Seconds (Disney),9-Jun-00,10.16,2000,0
+500,28,10,7,0,0.7368,1,Maverick (Warner Bros.),20-May-94,10.16,1994,1
+501,7,25,1,7,0.2188,0.125,Sleeping with the Enemy (Fox),8-Feb-91,10.16,1991,0
+502,47,132,8,25,0.2626,0.2424,Eagle Eye (Paramount / DreamWorks),26-Sep-08,10.14,2008,0
+503,66,18,18,7,0.7857,0.72,The Prince of Egypt (DreamWorks),18-Dec-98,10.14,1998,1
+504,59,14,17,1,0.8082,0.9444,Scream 2 (Miramax / Dimension),12-Dec-97,10.14,1997,1
+505,10,5,0,1,0.6667,0,Stir Crazy (Columbia),12-Dec-80,10.13,1980,1
+506,16,29,5,7,0.3556,0.4167,Eraser (Warner Bros.),21-Jun-96,10.13,1996,0
+507,58,2,9,2,0.9667,0.8182,Unforgiven (Warner Bros.),7-Aug-92,10.12,1992,1
+508,16,134,5,33,0.1067,0.1316,Dr. Seuss' The Cat in the Hat (Universal),21-Nov-03,10.11,2003,0
+509,34,28,3,9,0.5484,0.25,Con Air (Disney),6-Jun-97,10.11,1997,0
+510,85,41,20,10,0.6746,0.6667,Sleepy Hollow (Paramount),19-Nov-99,10.11,1999,1
+511,194,31,37,8,0.8622,0.8222,Collateral (DreamWorks),6-Aug-04,10.1,2004,1
+512,39,23,8,10,0.629,0.4444,Contact (Warner Bros.),11-Jul-97,10.09,1997,1
+513,76,99,17,22,0.4343,0.4359,Charlie's Angels: Full Throttle (Sony / Columbia),27-Jun-03,10.08,2003,0
+514,25,23,3,4,0.5208,0.4286,The Pelican Brief (Warner Bros.),17-Dec-93,10.08,1993,0
+515,66,97,9,25,0.4049,0.2647,Vanilla Sky (Paramount),14-Dec-01,10.06,2001,0
+516,72,110,14,20,0.3956,0.4118,Due Date (Warner Bros.),5-Nov-10,10.05,2010,0
+517,29,20,8,4,0.5918,0.6667,The Rugrats Movie (Paramount),20-Nov-98,10.05,1998,0
+518,206,19,39,2,0.9156,0.9512,Million Dollar Baby (Warner Bros.),15-Dec-04,10.05,2004,1
+519,12,3,0,1,0.8,0,Airport (Universal),5-Mar-70,10.05,1970,1
+520,16,16,2,4,0.5,0.3333,Jumanji (Sony / TriStar),15-Dec-95,10.05,1995,0
+521,99,81,17,19,0.55,0.4722,Step Brothers (Sony / Columbia),25-Jul-08,10.05,2008,0
+522,45,148,4,37,0.2332,0.0976,Evan Almighty (Universal),22-Jun-07,10.05,2007,0
+523,16,20,3,7,0.4444,0.3,Casper (Universal),26-May-95,10.03,1995,0
+524,95,7,23,2,0.9314,0.92,Shakespeare in Love (Miramax),11-Dec-98,10.03,1998,1
+525,76,96,10,26,0.4419,0.2778,Bad Teacher (Sony / Columbia),24-Jun-11,10.03,2011,0
+526,13,85,3,14,0.1327,0.1765,Yogi Bear (Warner Bros.),17-Dec-10,10.02,2010,0
+527,103,130,20,20,0.4421,0.5,Cowboys & Aliens (Universal),29-Jul-11,10.02,2011,0
+528,46,8,11,6,0.8519,0.6471,Seven (New Line),22-Sep-95,10.02,1995,1
+529,36,13,9,6,0.7347,0.6,The Hunchback of Notre Dame (Disney),21-Jun-96,10.01,1996,1
+530,37,3,7,0,0.925,1,Parenthood (Universal),2-Aug-89,10,1989,1
+531,67,116,15,23,0.3661,0.3947,You Don't Mess with the Zohan (Sony / Columbia),6-Jun-08,10,2008,0
+532,23,22,6,5,0.5111,0.5455,Die Hard: With A Vengeance (Fox),19-May-95,10,1995,0
+533,3,9,1,0,0.25,1,Hope Springs (2003) (Buena Vista),5-Sep-03,10,2003,0
+534,65,52,13,11,0.5556,0.5417,Gnomeo and Juliet (Disney),11-Feb-11,10,2011,0
+535,41,8,10,3,0.8367,0.7692,Hercules (1997) (Disney),15-Jun-97,9.91,1997,1
+536,99,126,9,30,0.44,0.2308,The Green Hornet (Sony / Columbia),14-Jan-11,9.88,2011,0
+537,146,72,26,11,0.6697,0.7027,Date Night (Fox),9-Apr-10,9.87,2010,1
+538,23,3,1,0,0.8846,1,The Color Purple (Warner Bros.),20-Dec-85,9.85,1985,1
+539,90,46,19,13,0.6618,0.5938,Meet the Robinsons (Disney),30-Mar-07,9.78,2007,1
+540,69,83,13,19,0.4539,0.4063,Yes Man (Warner Bros.),19-Dec-08,9.77,2008,0
+541,13,49,4,17,0.2097,0.1905,Inspector Gadget (Disney),23-Jul-99,9.74,1999,0
+542,174,84,27,16,0.6744,0.6279,Public Enemies (Universal),1-Jul-09,9.71,2009,1
+543,269,11,46,0,0.9607,1,The Social Network (Sony / Columbia),1-Oct-10,9.7,2010,1
+544,123,24,22,12,0.8367,0.6471,The Others (Miramax),10-Aug-01,9.65,2001,1
+545,94,44,20,13,0.6812,0.6061,Legally Blonde (MGM),13-Jul-01,9.65,2001,1
+546,138,42,25,10,0.7667,0.7143,Panic Room (Sony / Columbia),29-Mar-02,9.64,2002,1
+547,58,2,10,0,0.9667,1,Schindler's List (Universal),15-Dec-93,9.61,1993,1
+548,45,8,4,3,0.8491,0.5714,Dead Poets Society (Disney),2-Jun-89,9.59,1989,1
+549,11,112,2,28,0.0894,0.0667,Norbit (Paramount / DreamWorks),9-Feb-07,9.57,2007,0
+550,158,65,38,5,0.7085,0.8837,Cold Mountain (Miramax),25-Dec-03,9.56,2003,1
+551,27,3,4,1,0.9,0.8,Arthur (1981) (Orion),17-Jul-81,9.55,1981,1
+552,13,23,2,7,0.3611,0.2222,Michael (1996) (New Line),25-Dec-96,9.54,1996,0
+553,30,168,3,33,0.1515,0.0833,Sex and the City 2 (Warner Bros. / New Line),27-May-10,9.53,2010,0
+554,30,84,10,18,0.2632,0.3571,The Princess Diaries 2: Royal Engagement (Disney),11-Aug-04,9.52,2004,0
+555,108,51,19,15,0.6792,0.5588,Unbreakable (Disney),22-Nov-00,9.5,2000,1
+556,92,99,16,20,0.4817,0.4444,The Book of Eli (Warner Bros.),15-Jan-10,9.48,2010,0
+557,12,132,3,27,0.0833,0.1,"10,000 B.C. (Warner Bros.)",7-Mar-08,9.48,2008,0
+558,39,57,9,10,0.4063,0.4737,Beverly Hills Chihuahua (Disney),3-Oct-08,9.45,2008,0
+559,84,10,14,1,0.8936,0.9333,The Lion King 3D (Disney),16-Sep-11,9.42,2011,1
+560,159,53,35,11,0.75,0.7609,Julie & Julia (Sony / Columbia),7-Aug-09,9.42,2009,1
+561,35,4,3,1,0.8974,0.75,Saturday Night Fever (Paramount),16-Dec-77,9.42,1977,1
+562,56,12,11,3,0.8235,0.7857,The Mask of Zorro (Sony / TriStar),17-Jul-98,9.41,1998,1
+563,57,88,10,23,0.3931,0.303,Maid in Manhattan (Sony / Columbia),13-Dec-02,9.4,2002,0
+564,65,92,12,27,0.414,0.3077,He's Just Not That Into You (Warner Bros. / New Line),6-Feb-09,9.4,2009,0
+565,175,32,39,3,0.8454,0.9286,Master and Commander: The Far Side of the World (Fox),14-Nov-03,9.39,2003,1
+566,209,22,32,6,0.9048,0.8421,The Fighter (Paramount),10-Dec-10,9.36,2010,1
+567,45,98,7,31,0.3147,0.1842,America's Sweethearts (Sony / Columbia),20-Jul-01,9.36,2001,0
+568,68,100,9,28,0.4048,0.2432,The Bucket List (Warner Bros.),25-Dec-07,9.35,2007,0
+569,62,53,12,19,0.5391,0.3871,Cats & Dogs (Warner Bros.),4-Jul-01,9.34,2001,0
+570,50,70,10,21,0.4167,0.3226,Two Weeks Notice (Warner Bros.),20-Dec-02,9.34,2002,0
+571,126,58,20,16,0.6848,0.5556,Red Dragon (Universal),4-Oct-02,9.31,2002,1
+572,7,24,2,5,0.2258,0.2857,Flubber (Disney),26-Nov-97,9.3,1997,0
+573,10,25,1,4,0.2857,0.2,Flashdance (Paramount),15-Apr-83,9.29,1983,0
+574,43,4,6,2,0.9149,0.75,When Harry Met Sally... (Columbia),12-Jul-89,9.28,1989,1
+575,198,13,35,3,0.9384,0.9211,The Town (Warner Bros.),17-Sep-10,9.22,2010,1
+576,28,7,5,2,0.8,0.7143,The Client (Warner Bros.),20-Jul-94,9.21,1994,1
+577,48,4,12,1,0.9231,0.9231,Star Trek: First Contact (Paramount),22-Nov-96,9.2,1996,1
+578,51,44,15,13,0.5368,0.5357,Think Like a Man (Sony / Screen Gems),20-Apr-12,9.15,2012,0
+579,17,17,3,4,0.5,0.4286,Kindergarten Cop (Universal),21-Dec-90,9.15,1990,0
+580,15,74,3,21,0.1685,0.125,The Haunting (DreamWorks),23-Jul-99,9.14,1999,0
+581,40,6,10,1,0.8696,0.9091,Crimson Tide (Disney),12-May-95,9.14,1995,1
+582,21,2,3,0,0.913,1,Back to School (Orion),13-Jun-86,9.13,1986,1
+583,24,31,8,9,0.4364,0.4706,Stepmom (Sony / TriStar),25-Dec-98,9.11,1998,0
+584,51,46,18,13,0.5258,0.5806,Save the Last Dance (Paramount),12-Jan-01,9.11,2001,0
+585,54,79,8,20,0.406,0.2857,The Scorpion King (Universal),19-Apr-02,9.1,2002,0
+586,38,4,4,1,0.9048,0.8,The Karate Kid (1984) (Columbia),22-Jun-84,9.08,1984,1
+587,76,139,10,25,0.3535,0.2857,Prince of Persia: The Sands of Time (Disney),28-May-10,9.08,2010,0
+588,84,4,23,1,0.9545,0.9583,Antz (DreamWorks),2-Oct-98,9.08,1998,1
+589,46,80,10,13,0.3651,0.4348,Scary Movie 4 (Weinstein / Dimension),14-Apr-06,9.07,2006,0
+590,28,72,9,14,0.28,0.3913,The Game Plan (Disney),28-Sep-07,9.06,2007,0
+591,47,50,9,15,0.4845,0.375,"Me, Myself & Irene (Fox)",23-Jun-00,9.06,2000,0
+592,83,44,18,9,0.6535,0.6667,High School Musical 3: Senior Year (Disney),24-Oct-08,9.06,2008,1
+593,14,36,3,8,0.28,0.2727,Tyler Perry's Madea Goes to Jail (Lionsgate),20-Feb-09,9.05,2009,0
+594,92,25,23,5,0.7863,0.8214,Space Cowboys (Warner Bros.),4-Aug-00,9.05,2000,1
+595,17,32,6,9,0.3469,0.4,Space Jam (Warner Bros.),15-Nov-96,9.04,1996,0
+596,34,4,4,1,0.8947,0.8,Trading Places (Paramount),10-Jun-83,9.04,1983,1
+597,137,55,21,13,0.7135,0.6176,Red (2010) (Summit),15-Oct-10,9.04,2010,1
+598,57,93,16,22,0.38,0.4211,"Legally Blonde 2: Red, White and Blonde (MGM)",2-Jul-03,9.02,2003,0
+599,170,25,39,2,0.8718,0.9512,Mystic River (Warner Bros.),8-Oct-03,9.01,2003,1
+600,65,107,13,23,0.3779,0.3611,Flightplan (Disney),23-Sep-05,8.97,2005,0
+601,130,39,36,3,0.7692,0.9231,Flight (Paramount),2-Nov-12,8.94,2012,1
+602,30,11,5,2,0.7317,0.7143,Father of the Bride (1991) (Disney),20-Dec-91,8.93,1991,1
+603,108,19,25,8,0.8504,0.7576,The Emperor's New Groove (Disney),15-Dec-00,8.93,2000,1
+604,40,71,10,16,0.3604,0.3846,Scream 3 (Miramax / Dimension),4-Feb-00,8.91,2000,0
+605,22,146,3,30,0.131,0.0909,The Ugly Truth (Sony / Columbia),24-Jul-09,8.89,2009,0
+606,69,71,11,17,0.4929,0.3929,Percy Jackson and the Olympians: The Lightning Thief (Fox),12-Feb-10,8.88,2010,0
+607,37,112,14,21,0.2483,0.4,Failure to Launch (Paramount),10-Mar-06,8.87,2006,0
+608,169,27,37,5,0.8622,0.881,Inside Man (Universal),24-Mar-06,8.86,2006,1
+609,193,9,38,3,0.9554,0.9268,The Muppets (Disney),23-Nov-11,8.86,2011,1
+610,33,4,1,3,0.8919,0.25,Lady and the Tramp (Disney),22-Jun-55,8.83,1955,1
+611,21,28,8,2,0.4286,0.8,Waterworld (Universal),28-Jul-95,8.83,1995,0
+612,121,69,28,14,0.6368,0.6667,Starsky & Hutch (Warner Bros.),5-Mar-04,8.82,2004,1
+613,39,115,8,29,0.2532,0.2162,Along Came Polly (Universal),16-Jan-04,8.81,2004,0
+614,20,14,4,2,0.5882,0.6667,Out of Africa (Universal),20-Dec-85,8.81,1985,0
+615,20,14,4,3,0.5882,0.5714,The Hand That Rocks the Cradle (Disney),10-Jan-92,8.8,1992,0
+616,29,1,5,0,0.9667,1,Cinderella (Disney / RKO),15-Feb-50,8.8,1950,1
+617,30,11,3,5,0.7317,0.375,Back to the Future Part III (Universal),25-May-90,8.77,1990,1
+618,31,50,7,11,0.3827,0.3889,Entrapment (Fox),30-Apr-99,8.77,1999,0
+619,20,4,2,1,0.8333,0.6667,Peter Pan (1953) (Disney / RKO),5-Feb-53,8.74,1953,1
+620,131,61,24,15,0.6823,0.6154,Pineapple Express (Sony / Columbia),6-Aug-08,8.73,2008,1
+621,13,1,2,0,0.9286,1,Everest (MacGillivray Freeman),6-Mar-98,8.72,1998,1
+622,41,75,6,21,0.3534,0.2222,Saw II (Lionsgate),28-Oct-05,8.7,2005,0
+623,39,0,5,0,1,1,Pinocchio (1940) (Disney / RKO),9-Feb-40,8.7,1940,1
+624,20,15,6,1,0.5714,0.8571,The Naked Gun 2 1/2: The Smell of Fear (Paramount),28-Jun-91,8.69,1991,0
+625,118,61,21,15,0.6592,0.5833,The Campaign (Warner Bros.),10-Aug-12,8.69,2012,1
+626,31,7,5,3,0.8158,0.625,The War of the Roses (Fox),8-Dec-89,8.69,1989,1
+628,20,3,7,2,0.8696,0.7778,Space Station 3D (IMAX),19-Apr-02,8.67,2002,1
+629,6,18,0,2,0.25,0,The Amityville Horror (1979) (AIP),27-Jul-79,8.64,1979,0
+630,31,2,9,0,0.9394,1,Presumed Innocent (Warner Bros.),27-Jul-90,8.63,1990,1
+631,45,3,4,0,0.9375,1,Young Frankenstein (Fox),15-Dec-74,8.63,1974,1
+632,146,29,32,9,0.8343,0.7805,Mean Girls (Paramount),30-Apr-04,8.61,2004,1
+633,99,34,23,9,0.7444,0.7188,Spy Kids 2: The Island of Lost Dreams (Miramax / Dimension),7-Aug-02,8.58,2002,1
+634,11,68,3,21,0.1392,0.125,Pokemon: The First Movie (Warner Bros.),10-Nov-99,8.57,1999,0
+635,123,83,20,14,0.5971,0.5882,Real Steel (Disney / DreamWorks),7-Oct-11,8.55,2011,0
+636,85,40,23,11,0.68,0.6765,The SpongeBob SquarePants Movie (Paramount),19-Nov-04,8.54,2004,1
+637,29,3,2,2,0.9063,0.5,The Ten Commandments (1956) (Paramount),5-Oct-56,8.54,1956,1
+638,48,77,10,20,0.384,0.3333,Brother Bear (Disney),24-Oct-03,8.53,2003,0
+639,29,4,3,1,0.8788,0.75,Stripes (Columbia),26-Jun-81,8.53,1981,1
+640,130,66,25,13,0.6633,0.6579,Anchorman: The Legend of Ron Burgundy (DreamWorks),9-Jul-04,8.53,2004,1
+641,4,9,0,0,0.3077,#DIV/0!,Every Which Way But Loose (Warner Bros.),20-Dec-78,8.52,1978,0
+642,17,7,2,1,0.7083,0.6667,Rocky II (United Artists),15-Jun-79,8.52,1979,1
+643,49,0,7,0,1,1,Aliens (Fox),18-Jul-86,8.52,1986,1
+644,48,52,13,12,0.48,0.52,Open Season (2006) (Sony / Columbia),29-Sep-06,8.51,2006,0
+645,79,41,13,9,0.6583,0.5909,The Expendables 2 (Lionsgate),17-Aug-12,8.5,2012,1
+646,11,27,5,8,0.2895,0.3846,Dangerous Minds (Disney),11-Aug-95,8.49,1995,0
+647,75,53,14,11,0.5859,0.56,Paranormal Activity 2 (Paramount),22-Oct-10,8.48,2010,0
+648,150,81,18,25,0.6494,0.4186,The Hobbit: An Unexpected Journey (Warner Bros. / New Line),14-Dec-12,8.46,2012,1
+649,19,5,0,1,0.7917,0,The Poseidon Adventure (Fox),13-Dec-72,8.46,1972,1
+650,10,55,3,13,0.1538,0.1875,The Santa Clause 3: The Escape Clause (Disney),3-Nov-06,8.45,2006,0
+651,155,44,28,9,0.7789,0.7568,"Crazy, Stupid, Love (Warner Bros.)",29-Jul-11,8.44,2011,1
+652,24,89,3,23,0.2124,0.1154,Scooby-Doo 2: Monsters Unleashed (Warner Bros.),26-Mar-04,8.42,2004,0
+653,27,6,5,2,0.8182,0.7143,Cliffhanger (TriStar),28-May-93,8.41,1993,1
+654,68,72,14,19,0.4857,0.4242,Atlantis: The Lost Empire (Disney),8-Jun-01,8.41,2001,0
+655,44,25,8,7,0.6377,0.5333,The X-Files (Fox),19-Jun-98,8.39,1998,1
+656,235,24,38,4,0.9073,0.9048,Up in the Air (Paramount),4-Dec-09,8.38,2009,1
+657,13,7,1,0,0.65,1,Steel Magnolias (TriStar),15-Nov-89,8.38,1989,1
+658,42,122,8,21,0.2561,0.2759,Wrath of the Titans (Warner Bros.),30-Mar-12,8.37,2012,0
+659,18,6,3,1,0.75,0.75,Under Siege (Warner Bros.),9-Oct-92,8.36,1992,1
+660,69,127,7,25,0.352,0.2188,Battle: Los Angeles (Sony / Columbia),11-Mar-11,8.36,2011,0
+661,40,73,6,16,0.354,0.2727,Immortals (Relativity Media),11-Nov-11,8.35,2011,0
+662,73,1,10,1,0.9865,0.9091,Apocalypse Now (United Artists),15-Aug-79,8.35,1979,1
+663,52,1,5,0,0.9811,1,Airplane! (Paramount),2-Jul-80,8.35,1980,1
+664,22,8,0,6,0.7333,0,Patriot Games (Paramount),5-Jun-92,8.34,1992,1
+665,119,74,23,17,0.6166,0.575,Valkyrie (MGM / United Artists),25-Dec-08,8.31,2008,1
+666,203,31,40,4,0.8675,0.9091,Brokeback Mountain (Focus),9-Dec-05,8.3,2005,1
+667,27,16,5,4,0.6279,0.5556,Disclosure (Warner Bros.),9-Dec-94,8.3,1994,1
+668,47,3,5,3,0.94,0.625,Die Hard (Fox),15-Jul-88,8.3,1988,1
+669,112,31,25,11,0.7832,0.6944,Charlotte's Web (2006) (Paramount),15-Dec-06,8.3,2006,1
+670,26,137,5,36,0.1595,0.122,Monster-in-Law (New Line),13-May-05,8.29,2005,0
+671,13,101,3,29,0.114,0.0938,Are We There Yet? (Sony / Columbia),21-Jan-05,8.27,2005,0
+672,17,26,5,3,0.3953,0.625,Days of Thunder (Paramount),27-Jun-90,8.27,1990,0
+673,203,25,38,4,0.8904,0.9048,The Descendants (Fox Searchlight),16-Nov-11,8.26,2011,1
+674,62,91,9,24,0.4052,0.2727,Freddy Vs. Jason (New Line),15-Aug-03,8.26,2003,0
+675,20,7,6,1,0.7407,0.8571,Mr. Holland's Opus (Disney),29-Dec-95,8.26,1995,1
+676,6,86,3,25,0.0652,0.1071,Cheaper by the Dozen 2 (Fox),21-Dec-05,8.26,2005,0
+677,37,9,7,1,0.8043,0.875,Bram Stoker's Dracula (Columbia),13-Nov-92,8.25,1992,1
+678,19,4,4,0,0.8261,1,Fried Green Tomatoes (Universal),27-Dec-91,8.24,1991,1
+679,80,56,14,14,0.5882,0.5,Blade II (New Line),22-Mar-02,8.23,2002,0
+680,138,57,27,11,0.7077,0.7105,Beowulf (Paramount),16-Nov-07,8.23,2007,1
+681,121,23,23,4,0.8403,0.8519,Bridge to Terabithia (Disney),16-Feb-07,8.23,2007,1
+682,14,19,2,3,0.4242,0.4,Star Trek: The Motion Picture (Paramount),7-Dec-79,8.23,1979,0
+683,31,109,7,27,0.2214,0.2059,The Pink Panther (2006) (Sony / Columbia),10-Feb-06,8.22,2006,0
+684,13,2,1,0,0.8667,1,The Goodbye Girl (Warner Bros.),30-Nov-77,8.2,1977,1
+685,10,9,0,0,0.5263,#DIV/0!,Jaws 2 (Universal),16-Jun-78,8.18,1978,0
+686,26,4,3,1,0.8667,0.75,Heaven Can Wait (1978) (Paramount),28-Jun-78,8.16,1978,1
+687,106,41,19,15,0.7211,0.5588,Eight Below (Disney),17-Feb-06,8.16,2006,1
+688,34,4,3,1,0.8947,0.75,M.A.S.H. (Fox),25-Jan-70,8.16,1970,1
+689,155,25,30,4,0.8611,0.8824,Unstoppable (2010) (Fox),12-Nov-10,8.16,2010,1
+690,39,34,10,11,0.5342,0.4762,Payback (1999) (Paramount),5-Feb-99,8.15,1999,0
+691,105,22,25,7,0.8268,0.7813,The Talented Mr. Ripley (Paramount),25-Dec-99,8.13,1999,1
+692,176,16,39,1,0.9167,0.975,School of Rock (Paramount),3-Oct-03,8.13,2003,1
+693,7,9,0,0,0.4375,#DIV/0!,Police Academy (Warner Bros.),23-Mar-84,8.12,1984,0
+694,19,61,4,15,0.2375,0.2105,Snow Dogs (Disney),18-Jan-02,8.12,2002,0
+695,58,106,8,24,0.3537,0.25,21 (Sony / Columbia),28-Mar-08,8.12,2008,0
+696,37,6,11,2,0.8605,0.8462,While You Were Sleeping (Disney),21-Apr-95,8.11,1995,1
+697,9,34,1,12,0.2093,0.0769,Congo (Paramount),9-Jun-95,8.1,1995,0
+698,80,74,18,20,0.5195,0.4737,The Notebook (New Line),25-Jun-04,8.1,2004,0
+699,56,19,12,6,0.7467,0.6667,Jimmy Neutron: Boy Genius (Paramount),21-Dec-01,8.09,2001,1
+700,85,3,13,3,0.9659,0.8125,Alien (Fox),25-May-79,8.09,1979,1
+701,4,17,0,2,0.1905,0,Another 48 HRS. (Paramount),8-Jun-90,8.08,1990,0
+702,38,3,6,1,0.9268,0.8571,Moonstruck (MGM),16-Dec-87,8.06,1987,1
+703,71,122,14,23,0.3679,0.3784,Eat Pray Love (Sony / Columbia),13-Aug-10,8.06,2010,0
+704,55,98,6,28,0.3595,0.1765,The Texas Chainsaw Massacre (2003) (New Line),17-Oct-03,8.06,2003,0
+705,17,106,4,22,0.1382,0.1538,Zookeeper (Sony / Columbia),8-Jul-11,8.04,2011,0
+706,30,111,1,24,0.2128,0.04,Alien Vs. Predator (Fox),13-Aug-04,8.03,2004,0
+707,36,95,9,24,0.2748,0.2727,What Happens in Vegas (Fox),9-May-08,8.03,2008,0
+708,22,143,8,30,0.1333,0.2105,The Dukes of Hazzard (Warner Bros.),5-Aug-05,8.03,2005,0
+709,40,20,8,4,0.6667,0.6667,The Wedding Singer (New Line),13-Feb-98,8.02,1998,1
+710,23,62,1,17,0.2706,0.0556,Saw III (Lionsgate),27-Oct-06,8.02,2006,0
+711,117,55,24,12,0.6802,0.6667,Disturbia (Paramount / DreamWorks),13-Apr-07,8.02,2007,1
+712,66,98,13,24,0.4024,0.3514,Nacho Libre (Paramount),16-Jun-06,8.02,2006,0
+713,26,136,1,37,0.1605,0.0263,Jumper (Fox),14-Feb-08,8.02,2008,0
+714,151,45,26,10,0.7704,0.7222,Cloverfield (Paramount),18-Jan-08,8,2008,1
+715,19,15,3,1,0.5588,0.75,Footloose (1984) (Paramount),17-Feb-84,8,1984,0
+716,39,96,6,24,0.2889,0.2,Dear John (Sony / Screen Gems),5-Feb-10,8,2010,0
+717,5,8,0,1,0.3846,0,A Star Is Born (1976) (Warner Bros.),17-Dec-76,8,1976,0
+718,46,2,6,0,0.9583,1,Fantasia (Disney / RKO),13-Nov-40,8,1940,1
